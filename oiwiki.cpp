@@ -90,5 +90,7 @@ int main() {
 	int maxWidth = 20;
 	for (auto data : s.fullJustify(words, maxWidth)) {
 		std::cout << data << std::endl;
+
+
 	}
 }
